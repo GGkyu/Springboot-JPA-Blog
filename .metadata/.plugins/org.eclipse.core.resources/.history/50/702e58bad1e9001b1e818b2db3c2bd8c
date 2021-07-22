@@ -1,0 +1,6 @@
+ package com.example.blog.test;
+
+ @controller 
+public class BolgControllerTest {
+
+}
