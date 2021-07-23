@@ -5,3 +5,10 @@
 1626921859760	Rename type 'Reply'
 1626921870253	Rename type 'User'
 1626921877163	Rename type 'Reply1'
+1627001077763	Rename package 'com.example.blog.gandler'
+1627006792515	Copy file
+1627006802853	Rename resource 'index.jsp'
+1627007783076	Copy file
+1627008103488	Delete element
+1627008140931	Delete element
+1627016845821	Rename type 'ResponseDTO'
